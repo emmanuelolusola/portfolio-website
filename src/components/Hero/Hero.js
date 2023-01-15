@@ -17,8 +17,9 @@ const Hero = (props) => (
           Emmanuel Olusola
         </SectionTitle>
         <SectionText>
-          A product driven software engineer, passionate about code quality,
-          engineering principles and Software Infrastructure
+          A product-driven full stack developer, dedicated to building and
+          optimizing user-focused websites and applications. Passionate about
+          code quality, engineering principles and Software Infrastructure.
         </SectionText>
         <Button onClick={props.handleClick}>
           <a
